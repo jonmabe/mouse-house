@@ -36,3 +36,4 @@ nosetests.xml
 .pydevproject
 *.sublime-workspace
 Data/
+dev.config
